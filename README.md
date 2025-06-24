@@ -1,5 +1,3 @@
-# ANN
-
 # Emotion Recognition with Artificial Neural Networks
 
 This repository contains the code and resources for the research paper, "Geometric and Appearance approaches with Artificial Neural Network for Discrete Human Emotion Recognition from Static Face Images." The project explores and implements two primary approaches for recognizing human emotions from static facial images.
