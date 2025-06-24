@@ -93,9 +93,9 @@ seaborn
 
 You can run the Jupyter Notebook `cwANN_.ipynb` to see the implementation of the emotion recognition models. The notebook is self-contained and includes all the steps from data loading to model evaluation.
 
-## Corrections and Improvements to the code
+## Improvements to the code
 
-The following corrections have been made to the original code for better structure and performance:
+The following improvement have been made to the original code for better structure and performance:
 
 1.  **Added `if __name__ == "__main__"` block:** Encapsulated the main script logic in a `if __name__ == "__main__"` block to ensure it runs only when the script is executed directly.
 
